@@ -1,4 +1,4 @@
-Front End Developer living in Toronto experienced in building responsive, accessible websites and web applications using JavaScript, jQuery, Firebase and React. As a recent Juno Bootcamp graduate, I’m looking to expand my portfolio and collaborate on something new.
+Front End Developer living in Toronto experienced in building responsive, accessible websites and web applications.
 
 ## Skill set:
 
